@@ -14,7 +14,10 @@ public class Konto {
         typ = derTyp;
         dispo = derDispo;
     }
-    
+    /**
+     * 
+     * @return 
+     */
     public Bank gibBank(){
         return meineBank;
     }
